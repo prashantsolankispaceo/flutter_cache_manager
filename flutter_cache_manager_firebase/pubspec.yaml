@@ -13,10 +13,7 @@ dependencies:
     git:
       url: https://github.com/prashantsolankispaceo/flutter_cache_manager.git
       path: flutter_cache_manager
-  firebase_storage:
-    git:
-      url: https://github.com/prashantsolankispaceo/firebase_storage.git
-      path: firebase_storage
+  firebase_storage: ">=8.0.0 <11.2.3"
   path_provider: ^2.0.0
   path: ^1.8.0
 
